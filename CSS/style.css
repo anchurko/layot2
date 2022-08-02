@@ -1,0 +1,23 @@
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../img/left_icon-icons.com_61213.svg);
+}
+
+.carousel-control-next-icon {
+    background-image: url(../img/right_icon-icons.com_61212.svg);
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 20px;
+}
+
+.carousel-control-prev {
+    left: -115px;
+}
+.carousel-control-next {
+    right: -115px;
+}
